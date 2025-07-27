@@ -1,6 +1,0 @@
-theme: minima
-title: rachelisonline
-author: rachelisonline
-description: rachel, the human, is online
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
